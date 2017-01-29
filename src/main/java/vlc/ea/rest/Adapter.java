@@ -26,7 +26,7 @@ public class Adapter {
     private static final Logger log = Logger.getLogger(Adapter.class.getName());
 
     /**
-     * GET method.
+     * GET method. Retrieve a random quote.
      *
      * @return random quote retrieved
      * @throws ServiceException on malformed requests or back end error
