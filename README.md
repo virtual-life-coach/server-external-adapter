@@ -18,7 +18,7 @@ Server URL: [https://vlc-server-external-adapter.appspot.com/](https://vlc-serve
 The project repository is made up of the following *files* and **folders**:
 * **src/main**: application source code
     * **java/vlc/ea**: Java source code
-        * **dispatcher**: business logic
+        * **dispatcher**: requests dispatcher
             * *RequestDispatcher.java*: dispatch requests appropriately
         * **quote**: adapter to fetch quotes from external services
             * *ForismaticQuote.java*: adapter for Forismatic
